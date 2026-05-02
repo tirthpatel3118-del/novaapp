@@ -1,0 +1,9 @@
+{
+  "appId": "com.nova.clgapp",
+  "appName": "Nova",
+  "webDir": "web",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
